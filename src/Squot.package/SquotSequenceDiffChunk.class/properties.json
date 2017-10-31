@@ -1,0 +1,16 @@
+{
+	"category" : "Squot-Diffs-Generic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jr 10/24/2017 22:38",
+	"instvars" : [
+		"diff",
+		"left",
+		"right" ],
+	"name" : "SquotSequenceDiffChunk",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

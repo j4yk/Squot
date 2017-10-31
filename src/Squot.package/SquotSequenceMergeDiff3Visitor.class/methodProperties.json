@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"chunks:" : "jr 10/27/2017 17:12",
+		"detectRemovalBefore:" : "jr 10/27/2017 23:14",
+		"extractOriginalChunk:" : "jr 10/27/2017 17:39",
+		"initialize" : "jr 10/22/2017 10:49",
+		"left:original:right:" : "jr 10/24/2017 22:43",
+		"nodes" : "jr 10/22/2017 10:50",
+		"sequencesLeft:right:base:" : "jr 10/24/2017 22:24",
+		"side:chunk:" : "jr 10/27/2017 17:38" } }

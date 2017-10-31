@@ -9,8 +9,9 @@
 		"privateApplySequenceDiff:with:" : "jr 10/24/2017 23:42",
 		"squotDiffAgainst:" : "jr 6/27/2017 17:02",
 		"squotDiffAgainst:with:" : "jr 10/21/2017 16:57",
+		"squotDiffAgainst:withBase:with:" : "jr 10/25/2017 00:12",
 		"squotMaterializeWith:" : "jr 6/27/2017 17:03",
 		"squotPreferredSerializer" : "jr 9/20/2017 19:40",
 		"squotShadowMarker" : "jr 6/27/2017 17:04",
-		"squotWith:diffFromSequence:" : "jr 6/27/2017 17:04",
+		"squotWith:diffFromSequence:" : "jr 10/21/2017 17:23",
 		"writeTo:" : "jr 6/27/2017 17:06" } }

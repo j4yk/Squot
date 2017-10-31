@@ -1,0 +1,1 @@
+I record the differences between two sequences. I use Diff3 to compute the differences.

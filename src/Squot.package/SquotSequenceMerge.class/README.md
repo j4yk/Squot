@@ -1,0 +1,1 @@
+I record the possibly conflicting differences between two sequences. I use Diff3 to compute the merge.

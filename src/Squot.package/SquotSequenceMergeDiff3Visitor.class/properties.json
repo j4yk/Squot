@@ -1,0 +1,18 @@
+{
+	"category" : "Squot-Diffs-Generic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nodesStream",
+		"left",
+		"right",
+		"base",
+		"chunks" ],
+	"name" : "SquotSequenceMergeDiff3Visitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

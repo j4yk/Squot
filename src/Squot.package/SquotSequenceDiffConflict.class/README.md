@@ -1,0 +1,1 @@
+I record conflicting differences of a subsequence in a SquotSequenceMerge.

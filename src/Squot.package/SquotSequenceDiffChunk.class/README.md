@@ -1,0 +1,1 @@
+I record the differences of a subsequence in a SquotSequenceDiff.
