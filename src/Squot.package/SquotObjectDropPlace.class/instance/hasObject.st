@@ -1,0 +1,3 @@
+testing
+hasObject
+	^ droppedObject notNil

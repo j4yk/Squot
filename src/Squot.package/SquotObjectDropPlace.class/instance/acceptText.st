@@ -1,0 +1,4 @@
+accessing
+acceptText
+
+	^ acceptText

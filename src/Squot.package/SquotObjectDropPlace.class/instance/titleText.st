@@ -1,0 +1,4 @@
+accessing
+titleText
+
+	^ titleText

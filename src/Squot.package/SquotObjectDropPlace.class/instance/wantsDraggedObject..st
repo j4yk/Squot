@@ -1,0 +1,3 @@
+ui
+wantsDraggedObject: anObject
+	^ true

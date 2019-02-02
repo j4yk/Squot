@@ -2,8 +2,10 @@
 	"class" : {
 		"newOn:" : "jr 8/14/2018 10:29" },
 	"instance" : {
+		"addObject" : "jr 2/2/2019 16:02",
+		"addObject:" : "jr 2/2/2019 23:45",
 		"artifactsList" : "jr 10/3/2018 01:27",
-		"buildWith:" : "jr 2/2/2019 15:42",
+		"buildWith:" : "jr 2/3/2019 00:12",
 		"dragFromObjectList:" : "jr 8/14/2018 10:53",
 		"dropOnObjectList:at:" : "jr 10/17/2018 10:40",
 		"editLoadOrder:" : "jr 10/3/2018 01:31",
@@ -14,6 +16,8 @@
 		"moveDownInLoadOrder" : "jr 10/3/2018 01:33",
 		"moveUpInLoadOrder" : "jr 10/3/2018 01:33",
 		"objectLabels" : "jr 8/14/2018 10:53",
+		"refreshList" : "jr 2/3/2019 00:12",
+		"removeSelectedObject" : "jr 2/2/2019 23:43",
 		"selectedObject" : "jr 8/14/2018 10:54",
 		"selectedObjectIndex" : "jr 8/14/2018 10:30",
 		"selectedObjectIndex:" : "jr 2/2/2019 15:43",

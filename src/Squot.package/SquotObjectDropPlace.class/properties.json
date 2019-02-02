@@ -1,0 +1,20 @@
+{
+	"category" : "Squot-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"droppedObject",
+		"titleText",
+		"acceptText",
+		"cancelText",
+		"receiver",
+		"receiverAcceptSelector",
+		"accepted" ],
+	"name" : "SquotObjectDropPlace",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

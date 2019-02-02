@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept" : "jr 2/2/2019 18:37",
+		"acceptText" : "jr 2/2/2019 16:02",
+		"acceptText:" : "jr 2/2/2019 16:02",
+		"buildWith:" : "jr 2/2/2019 18:37",
+		"cancel" : "jr 2/2/2019 16:10",
+		"cancelText" : "jr 2/2/2019 16:02",
+		"cancelText:" : "jr 2/2/2019 16:02",
+		"dropObject:" : "jr 2/2/2019 18:37",
+		"dropTargetItems" : "jr 2/2/2019 18:33",
+		"droppedObject" : "jr 2/2/2019 16:02",
+		"droppedObject:" : "jr 2/2/2019 16:02",
+		"hasObject" : "jr 2/2/2019 18:36",
+		"receiver" : "jr 2/2/2019 16:02",
+		"receiver:" : "jr 2/2/2019 16:02",
+		"receiverAcceptSelector" : "jr 2/2/2019 16:02",
+		"receiverAcceptSelector:" : "jr 2/2/2019 16:02",
+		"titleText" : "jr 2/2/2019 16:02",
+		"titleText:" : "jr 2/2/2019 16:02",
+		"wantsDraggedObject:" : "jr 2/2/2019 16:26" } }
