@@ -20,6 +20,7 @@ buildWith: toolBuilder
 				model: self;
 				label: 'Move up';
 				action: #moveUpInLoadOrder;
+				enabled: #isAnyArtifactSelected;
 				frame: (LayoutFrame fractions: (0@1 corner: 0.5@1) offsets: (0@ -25 corner: 0@0));
 				yourself.
 			toolBuilder pluggableButtonSpec new
@@ -27,5 +28,6 @@ buildWith: toolBuilder
 				model: self;
 				label: 'Move down';
 				action: #moveDownInLoadOrder;
+				enabled: #isAnyArtifactSelected;
 				frame: (LayoutFrame fractions: (0.5@1 corner: 1@1) offsets: (0@ -25 corner: 0@0));
 				yourself.})
