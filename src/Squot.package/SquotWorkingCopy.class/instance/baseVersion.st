@@ -1,4 +1,4 @@
-private accessing
+accessing
 baseVersion
 	"The baseVersion is the official HEAD version of this working copy.
 	New versions will have this version as a parent.

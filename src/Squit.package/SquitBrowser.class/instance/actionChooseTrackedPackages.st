@@ -1,4 +1,4 @@
 user requests
 actionChooseTrackedPackages
 	
-	^ SquitPackageChooser chooseFor: self projectSelection
+	SquitPackageChooser chooseFor: self projectSelection
