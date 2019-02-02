@@ -4,13 +4,17 @@
 		"on:" : "jr 4/23/2017 23:04" },
 	"instance" : {
 		"/" : "jr 4/23/2017 23:06",
+		"=" : "jr 2/2/2019 19:47",
 		"asFSReference" : "jr 4/6/2018 21:44",
+		"containingDirectory" : "jr 2/2/2019 19:36",
 		"createDirectory:" : "jr 6/29/2017 16:06",
 		"directoryNamed:" : "jr 4/23/2017 23:10",
 		"directoryNames" : "jr 4/23/2017 23:09",
 		"entries" : "jr 4/23/2017 23:23",
+		"hash" : "jr 2/2/2019 19:48",
 		"isRemoteDirectory" : "jr 4/23/2017 23:14",
 		"pathName" : "jr 4/23/2017 23:28",
 		"pathParts" : "jr 4/23/2017 23:22",
+		"printOn:" : "jr 2/2/2019 19:40",
 		"reference:" : "jr 4/23/2017 23:03",
 		"sleep" : "jr 4/23/2017 23:29" } }
