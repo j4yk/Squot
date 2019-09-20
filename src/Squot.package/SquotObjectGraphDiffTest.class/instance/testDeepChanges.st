@@ -1,4 +1,4 @@
-testing
+tests
 testDeepChanges
 	| a b diff diffA |
 	a := Array with: (b := Array with: 1).

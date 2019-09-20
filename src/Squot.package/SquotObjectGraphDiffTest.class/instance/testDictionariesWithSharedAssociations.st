@@ -1,4 +1,4 @@
-testing
+tests
 testDictionariesWithSharedAssociations
 	| bothDicts dict1 dict2 diff changedAssocDiff dict2Diff |
 	dict1 := Dictionary newFrom: {#a -> 1. #b -> 2}.

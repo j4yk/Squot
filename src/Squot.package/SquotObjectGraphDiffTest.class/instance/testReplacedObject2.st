@@ -1,4 +1,4 @@
-testing
+tests
 testReplacedObject2
 	"Capture a StringMorph whose font will be proxied."
 	| stringMorph diff stringMorphDiff |

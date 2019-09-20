@@ -1,4 +1,4 @@
-testing
+tests
 testIdentityReplacedObject
 	| binding1 binding2 diff holder |
 	binding1 := Smalltalk globals bindingOf: #Smalltalk.

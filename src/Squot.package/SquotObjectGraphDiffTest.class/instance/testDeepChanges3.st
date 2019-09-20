@@ -1,4 +1,4 @@
-testing
+tests
 testDeepChanges3
 	"Try to provoke the diff builder to visit an object again only after changes to it have been detected already."
 	| a b c d diff diffD |

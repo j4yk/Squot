@@ -1,4 +1,4 @@
-testing
+tests
 testCyclicReferences
 	| subject diff subjectDiff itemShadow |
 	subject := Array new: 1.

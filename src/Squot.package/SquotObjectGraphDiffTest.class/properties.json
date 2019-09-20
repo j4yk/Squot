@@ -8,7 +8,7 @@
 	"instvars" : [
 		"capturer",
 		"objectRegistry" ],
-	"name" : "SquotObjectDiffTest",
+	"name" : "SquotObjectGraphDiffTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

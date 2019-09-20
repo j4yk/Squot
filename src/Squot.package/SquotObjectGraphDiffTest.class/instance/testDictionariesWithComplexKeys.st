@@ -1,4 +1,4 @@
-testing
+tests
 testDictionariesWithComplexKeys
 	| dict diff key1 key2 key2Diff changedAssocDiff |
 	key1 := SquotObjectForDiffTests new var1: 1; var2: 2.

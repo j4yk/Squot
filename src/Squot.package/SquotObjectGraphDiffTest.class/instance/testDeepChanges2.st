@@ -1,4 +1,4 @@
-testing
+tests
 testDeepChanges2
 	| a b diff diffA |
 	a := ValueHolder new contents: (b := ValueHolder new contents: 1).
