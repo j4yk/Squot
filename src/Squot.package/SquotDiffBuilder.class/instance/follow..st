@@ -7,6 +7,7 @@ follow: aPairOfShadows
 		[baseShadow := leftShadow.
 		leftShadow := rightShadow key.
 		rightShadow := rightShadow value].
+	leftShadow ifNil: [^ self followAddedObjectReferences: rightShadow].
 	(visited includes: leftShadow undecorated) ifTrue: [^ self].
 	visited add: leftShadow undecorated.
 	diffedPair := aPairOfShadows.
