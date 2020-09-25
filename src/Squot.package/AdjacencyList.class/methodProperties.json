@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"newWithIdentityNodes" : "jr 9/22/2020 20:10" },
+	"instance" : {
+		"addEdgeFrom:to:" : "jr 9/22/2020 20:11",
+		"neighborsOf:" : "jr 9/22/2020 20:12",
+		"setNeighbors:listFactory:" : "jr 9/22/2020 20:10" } }

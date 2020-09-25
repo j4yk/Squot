@@ -1,0 +1,15 @@
+{
+	"category" : "Squot-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"neighbors",
+		"listFactory" ],
+	"name" : "AdjacencyList",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
