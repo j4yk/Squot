@@ -1,0 +1,16 @@
+{
+	"category" : "Squot-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"graph",
+		"walk",
+		"problems" ],
+	"name" : "SquotGraphCheck",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

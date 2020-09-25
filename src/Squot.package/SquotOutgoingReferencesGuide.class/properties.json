@@ -1,0 +1,14 @@
+{
+	"category" : "Squot-Internal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SquotOutgoingReferencesGuide",
+	"pools" : [
+		 ],
+	"super" : "SquotGraphGuide",
+	"type" : "normal" }
